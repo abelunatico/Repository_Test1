@@ -1,0 +1,11 @@
+SQL Statement which produced this data:
+  select * from MTL_COPY_ORG_INTERFACE;
+
+GROUP_CODE,XML,LAST_UPDATE_DATE,LAST_UPDATED_BY,CREATION_DATE,CREATED_BY,LAST_UPDATE_LOGIN,ORGANIZATION_CODE,STATUS,OPTIONS,LAST_ENTITY_NUMBER,SITE_ID
+INV,<Root>
+  <InventoryOrganization>
+    <Name>DIN Inventory</Name>
+    <OrganizationCode>DIN</OrganizationCode>
+    <LocationCode>Plant 3 Lerma</LocationCode>
+  </InventoryOrganization>
+</Root>,,,,,,DIN,,,,
